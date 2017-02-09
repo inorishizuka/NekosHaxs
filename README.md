@@ -9,6 +9,7 @@ cheers to : <a href="https://github.com/Chaaoos">/u/Chaaoos</a>  for catching my
 * Materialize CSS framework <a href="http://materializecss.com">(Link)</a>
 * Google Material Icon Pack <a href="https://material.io/icons/">(Link)</a>
 * Google Roboto Fonts <a href="https://fonts.google.com/specimen/Roboto">(Link)</a>
+* Kangax's HTML Minifier <a href="http://kangax.github.io/html-minifier/">(Link)</a>
 
 * * *
 
