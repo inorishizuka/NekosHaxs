@@ -1,6 +1,8 @@
 # NekosHaxs
 Designed for the 3dshacks/Nintendo Homebrew community
 
+
+cheers to : <a href="https://github.com/Chaaoos">/u/Chaaoos</a>  for catching my late night typos
 * * *
 
 ### [](#header-3) Used Resources
