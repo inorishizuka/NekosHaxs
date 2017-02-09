@@ -16,10 +16,12 @@ cheers to : <a href="https://github.com/Chaaoos">/u/Chaaoos</a>  for catching my
 ## [](#header-2) Project Source Code
 
 ```html
-// html source code
+
+ 
  <!DOCTYPE html>
   <html>
     <head>
+
       <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
       <!--Import Google Icon Font-->
 	  <noscript id="deferred-styles">
@@ -29,8 +31,8 @@ cheers to : <a href="https://github.com/Chaaoos">/u/Chaaoos</a>  for catching my
 	  <!--Added CDN Support-->
       <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css"  media="screen,projection"/>
 	  </noscript>
+	  <!--Google's Supposedly Async/defered CSS loading script-->
 	  <script>
-	  <!--Googles Supposedly Async/defered CSS loading script-->
       var loadDeferredStyles = function() {
         var addStylesNode = document.getElementById("deferred-styles");
         var replacement = document.createElement("div");
@@ -341,6 +343,7 @@ cheers to : <a href="https://github.com/Chaaoos">/u/Chaaoos</a>  for catching my
             <a class="grey-text text-lighten-4 right" href="https://github.com/inorishizuka/NekosHaxs">Inori's Repo</a>
             </div>
 </html>
+
 ```
 
 
