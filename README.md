@@ -32,7 +32,7 @@ cheers to : <a href="https://github.com/Chaaoos">/u/Chaaoos</a>  for catching my
       <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css"  media="screen,projection"/>
 	  </noscript>
 	  <script>
-	  <!--Google's Supposedly Async/defered CSS loading script--!>
+	  <!--Google's Supposedly Async/defered CSS loading script-->
       var loadDeferredStyles = function() {
         var addStylesNode = document.getElementById("deferred-styles");
         var replacement = document.createElement("div");
